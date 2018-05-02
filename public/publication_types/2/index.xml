@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>2 on Schwartz Soil Hydrology Lab</title>
+    <link>/publication_types/2/</link>
+    <description>Recent content in 2 on Schwartz Soil Hydrology Lab</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>&amp;copy; 2018</copyright>
+    <lastBuildDate>Sun, 01 Apr 2018 00:00:00 +0300</lastBuildDate>
+    
+	<atom:link href="/publication_types/2/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Activation of seminal root primordia during wheat domestication reveals underlying mechanisms of plant resilience</title>
+      <link>/publication/wheat-evolution/</link>
+      <pubDate>Sun, 01 Apr 2018 00:00:00 +0300</pubDate>
+      
+      <guid>/publication/wheat-evolution/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>The impact of mucilage on root water uptake – A numerical study</title>
+      <link>/publication/mucilage-rwu/</link>
+      <pubDate>Thu, 01 Dec 2016 00:00:00 +0200</pubDate>
+      
+      <guid>/publication/mucilage-rwu/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>On the spectral induced polarization signature of soil organic matter</title>
+      <link>/publication/sip-om/</link>
+      <pubDate>Sat, 01 Nov 2014 00:00:00 +0200</pubDate>
+      
+      <guid>/publication/sip-om/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>The effect of organic acid on the spectral induced polarization response of soil</title>
+      <link>/publication/sip-oa/</link>
+      <pubDate>Wed, 01 Jan 2014 00:00:00 +0200</pubDate>
+      
+      <guid>/publication/sip-oa/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>The effect of free-phase NAPL on the spectral induced polarization signature of variably saturated soil</title>
+      <link>/publication/sip-freephase/</link>
+      <pubDate>Thu, 01 Aug 2013 00:00:00 +0300</pubDate>
+      
+      <guid>/publication/sip-freephase/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Spectral induced polarization signature of soil contaminated by organic pollutant: Experiment and modeling</title>
+      <link>/publication/sip-ocation/</link>
+      <pubDate>Mon, 01 Oct 2012 00:00:00 +0300</pubDate>
+      
+      <guid>/publication/sip-ocation/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>The effect of NAPL on the electrical properties of unsaturated porous media</title>
+      <link>/publication/sip-napl/</link>
+      <pubDate>Thu, 01 Mar 2012 00:00:00 +0200</pubDate>
+      
+      <guid>/publication/sip-napl/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

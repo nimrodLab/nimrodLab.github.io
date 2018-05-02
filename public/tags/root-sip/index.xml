@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Root-SIP on Schwartz Soil Hydrology Lab</title>
+    <link>/tags/root-sip/</link>
+    <description>Recent content in Root-SIP on Schwartz Soil Hydrology Lab</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>&amp;copy; 2018</copyright>
+    <lastBuildDate>Wed, 27 Apr 2016 00:00:00 +0300</lastBuildDate>
+    
+	<atom:link href="/tags/root-sip/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Electrical properties of the root zone</title>
+      <link>/project/deep-learning/</link>
+      <pubDate>Wed, 27 Apr 2016 00:00:00 +0300</pubDate>
+      
+      <guid>/project/deep-learning/</guid>
+      <description>Geoelectrical tools are known to detect vadose zone processes, they can image the subsurface in a noninvasive fashion, and therefore they hold a great promise to be used in root and rhizosphere research. However, it is not clear how roots and roots activities affect the electrical properties of the soil. This understanding which stands in the heart of our research is crucial to utilized geoelectrical methods for root and rhizosphere studies.</description>
+    </item>
+    
+  </channel>
+</rss>
