@@ -1,5 +1,5 @@
 ---
-title: ""
+title: "Nimrod Schwartz's Lab"
 author_profile: false
 excerpt: "<img src='/images/DrySoil.jpeg' width='750' height='150'>"
 collection: portfolio
