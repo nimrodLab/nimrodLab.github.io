@@ -1,6 +1,6 @@
 ---
 title: ""
-excerpt: "<img src='/images/DrySoil.jpeg' width='250' height='150'>"
+excerpt: "<img src='/images/DrySoil.jpeg' width='750' height='150'>"
 collection: portfolio
 ---
 
