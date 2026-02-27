@@ -168,25 +168,25 @@
     "text": "Research Themes"
   },
   {
-    "objectID": "research.html#geoelectrical-methods-in-soil-science",
-    "href": "research.html#geoelectrical-methods-in-soil-science",
+    "objectID": "research.html#theme-1-geoelectrical-properties-of-porous-media",
+    "href": "research.html#theme-1-geoelectrical-properties-of-porous-media",
     "title": "Our Research",
-    "section": "Geoelectrical Methods in Soil Science",
-    "text": "Geoelectrical Methods in Soil Science\n\nSoil Contaminant Interactions\nOur research applies SIP to study interactions between soil, organic matter, and contaminants, offering a non-invasive method to monitor contaminant fate and transport in situ.\n\n\n\nElectrical Double Layer Properties\nWe explore how microscopic processes at the Electrical Double Layer scale influence the electrical signatures observable at much larger scales, bridging the gap between molecular-level phenomena and macroscopic geophysical measurements.\n\n\n\nRoot Detection Using Spectral Induced Polarization (SIP)\nWe use SIP to detect and quantify root biomass in the subsurface, investigating how root cell membranes contribute to soil polarization."
+    "section": "Theme 1: Geoelectrical Properties of Porous Media",
+    "text": "Theme 1: Geoelectrical Properties of Porous Media\n\nInterfacial Properties and SIP\nWe investigate how interfacial processes control the electrical behavior of soils and sediments. A central question in our work is how pore-scale and electrical double-layer dynamics shape measurable SIP signatures.\n\n\n\n\n\n\n\n\n\nContaminants, Reactive Systems, and Remediation\nWe use SIP and related geoelectrical methods to quantify interactions between organic pollutants, mineral surfaces, and reactive amendments, with the goal of non-invasive monitoring of fate, transport, and remediation performance."
   },
   {
-    "objectID": "research.html#soil-plant-environment-interactions",
-    "href": "research.html#soil-plant-environment-interactions",
+    "objectID": "research.html#theme-2-soil-plant-interactions",
+    "href": "research.html#theme-2-soil-plant-interactions",
     "title": "Our Research",
-    "section": "Soil-Plant-Environment Interactions",
-    "text": "Soil-Plant-Environment Interactions\n\nRoot Exudates and Solute Transport\nOur studies show how root exudates alter rhizosphere properties, affecting solute transport in saturated and unsaturated soil conditions.\n\n\n\nDrought Adaptation in Crops\nUsing electrical resistivity tomography, we explore how wheat genes influence root architecture and drought adaptation in modern wheat varieties."
+    "section": "Theme 2: Soil-Plant Interactions",
+    "text": "Theme 2: Soil-Plant Interactions\n\nRhizosphere Transport and Root-Soil Coupling\nWe study how roots and root exudates modify rhizosphere properties and influence water and solute movement in saturated and unsaturated soils.\n\n\n\nRoot Function and Crop Stress Responses\nUsing hydrogeophysics and process-based interpretation, we investigate drought and salinity stress, root architecture, and below-ground controls on plant performance."
   },
   {
-    "objectID": "research.html#environmental-and-agricultural-applications",
-    "href": "research.html#environmental-and-agricultural-applications",
+    "objectID": "research.html#cross-cutting-methods-and-applications",
+    "href": "research.html#cross-cutting-methods-and-applications",
     "title": "Our Research",
-    "section": "Environmental and Agricultural Applications",
-    "text": "Environmental and Agricultural Applications\n\nInnovative Soil and Water Resource Management\nWe develop cutting-edge approaches for monitoring and managing soil and water resources, combining our expertise in soil physics and geophysics.\n\nThese research projects demonstrate our commitment to understanding complex soil-plant-environment interactions and developing innovative approaches for environmental and agricultural challenges."
+    "section": "Cross-Cutting Methods and Applications",
+    "text": "Cross-Cutting Methods and Applications\n\n\nMethods\nSIP, ERT, laboratory experiments, and numerical/process-based modeling across scales.\n\n\nEnvironmental Systems\nContaminant transport, reactive barriers, and unsaturated-zone processes.\n\n\nAgricultural Systems\nRhizosphere transport, drought and salinity stress, and root-informed water management."
   },
   {
     "objectID": "contact.html",
@@ -203,11 +203,11 @@
     "text": "Department of Soil and Water Sciences (office #24)\nFaculty of Agriculture, Food, and Environment\nThe Hebrew University of Jerusalem\nRehovot 7610001, Israel\nPhone: +972 (0)8 948 9288\nEmail: nimrod.schwartz@mail.huji.ac.il\nYou can find us here:"
   },
   {
-    "objectID": "openPosition.html#why-join-us",
-    "href": "openPosition.html#why-join-us",
+    "objectID": "openPosition.html#why-reach-out",
+    "href": "openPosition.html#why-reach-out",
     "title": "Open Positions",
-    "section": "Why Join Us?",
-    "text": "Why Join Us?\n\nContribute to cutting-edge research in soil hydrology\nWork with a dynamic team\nGain valuable experience and skills in your field\nOpportunity for academic growth"
+    "section": "Why Reach Out?",
+    "text": "Why Reach Out?\n\nContribute to cutting-edge research in soil hydrology\nWork with a dynamic team\nGain valuable experience and skills in your field\nExplore future collaboration opportunities"
   },
   {
     "objectID": "publications.html",
@@ -306,26 +306,5 @@
     "title": "Publications",
     "section": "",
     "text": "Schwartz, N., and Furman, A. (2012). Spectral induced polarization signature of soil contaminated by organic pollutant: experiment and modeling. Journal of Geophysical Research: Solid Earth, 117(B10).\nSchwartz, N., Huisman, J. A., and Furman, A. (2012). The effect of NAPL on the electrical properties of unsaturated porous media. Geophysical Journal International, 188(3), 1007-1011."
-  },
-  {
-    "objectID": "research.html#theme-1-geoelectrical-properties-of-porous-media",
-    "href": "research.html#theme-1-geoelectrical-properties-of-porous-media",
-    "title": "Our Research",
-    "section": "Theme 1: Geoelectrical Properties of Porous Media",
-    "text": "Theme 1: Geoelectrical Properties of Porous Media\n\nInterfacial Properties and SIP\nWe investigate how interfacial processes control the electrical behavior of soils and sediments. A central question in our work is how pore-scale and electrical double-layer dynamics shape measurable SIP signatures.\n\n\n\n\n\n\n\n\n\nContaminants, Reactive Systems, and Remediation\nWe use SIP and related geoelectrical methods to quantify interactions between organic pollutants, mineral surfaces, and reactive amendments, with the goal of non-invasive monitoring of fate, transport, and remediation performance."
-  },
-  {
-    "objectID": "research.html#theme-2-soil-plant-interactions",
-    "href": "research.html#theme-2-soil-plant-interactions",
-    "title": "Our Research",
-    "section": "Theme 2: Soil-Plant Interactions",
-    "text": "Theme 2: Soil-Plant Interactions\n\nRhizosphere Transport and Root-Soil Coupling\nWe study how roots and root exudates modify rhizosphere properties and influence water and solute movement in saturated and unsaturated soils.\n\n\n\nRoot Function and Crop Stress Responses\nUsing hydrogeophysics and process-based interpretation, we investigate drought and salinity stress, root architecture, and below-ground controls on plant performance."
-  },
-  {
-    "objectID": "research.html#cross-cutting-methods-and-applications",
-    "href": "research.html#cross-cutting-methods-and-applications",
-    "title": "Our Research",
-    "section": "Cross-Cutting Methods and Applications",
-    "text": "Cross-Cutting Methods and Applications\n\n\nMethods\nSIP, ERT, laboratory experiments, and numerical/process-based modeling across scales.\n\n\nEnvironmental Systems\nContaminant transport, reactive barriers, and unsaturated-zone processes.\n\n\nAgricultural Systems\nRhizosphere transport, drought and salinity stress, and root-informed water management."
   }
 ]
