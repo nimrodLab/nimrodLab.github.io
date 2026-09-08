@@ -471,3 +471,16 @@ main.content > * {
   }
 }
 
+
+/* Profile / external identifier links */
+.profile-links {
+  font-size: 0.95rem;
+  margin-top: 0.75rem;
+  line-height: 1.7;
+}
+.profile-links a {
+  text-decoration: none;
+}
+.profile-links a:hover {
+  text-decoration: underline;
+}
